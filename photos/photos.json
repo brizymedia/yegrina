@@ -1,0 +1,42 @@
+{
+ "updated": "",
+ "categories": [
+  {
+   "slug": "event",
+   "name": "운동회 · 체육대회",
+   "desc": "",
+   "count": 0
+  },
+  {
+   "slug": "church",
+   "name": "교회 행사",
+   "desc": "",
+   "count": 0
+  },
+  {
+   "slug": "water",
+   "name": "물놀이",
+   "desc": "",
+   "count": 0
+  },
+  {
+   "slug": "rental",
+   "name": "놀이기구 · 렌탈",
+   "desc": "",
+   "count": 0
+  },
+  {
+   "slug": "class",
+   "name": "예체능 수업",
+   "desc": "",
+   "count": 0
+  },
+  {
+   "slug": "stage",
+   "name": "발표회 · 무대",
+   "desc": "",
+   "count": 0
+  }
+ ],
+ "photos": []
+}
